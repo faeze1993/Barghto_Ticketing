@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Barghto_Ticketing.props" />
+</Project>
